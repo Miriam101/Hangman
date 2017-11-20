@@ -6,8 +6,11 @@ Group:
 
 ### To do (Whose Doing What)
 - Erika : User Input & Output _ test run for all the code - is it working?
-- Miriam : Images (CCS)- Animation 
-- Nuz(a)hat : Dictionary & test words _ Code for translation of the image to one certain image to another like head to head                 and body for the image transltion, put in each part so that each is a serpreate image? so that each has a                     differnet function and that all dont do thesame function assigned for only one body part. Like appering at a                 certain time, when other is supposed to (body appering with head- when only head suppoused to apper)
+
+- Miriam : Images (CCS)- Animation (Hangman) Apper after one another when the number guess certain number then number of certain bodies              shows
+
+- Nuz(a)hat : Dictionary & test words _ Code for translation of the image to one certain image to another like head to head                             and body for the image transltion, put in each part so that each is a serpreate image? So that each has a differnet function               and that all dont do thesame function assigned for only one body part. Like appering at a certain time, when other is                     supposed to (body appering with head- when only head suppoused to apper)
+
 - All : Connecting everything together
 
 Done : - Counting each letter
@@ -21,7 +24,9 @@ Done : - Counting each letter
 Needs to be done:
        - Make it choose a word randomly from dictionary
        - Then split, word check, see if user inpout is correct
-       - Connect with hangman dude that appears out of nowhere
-       - If user guesses wrong letter, can't repeat letter 
+       - Connect with hangman dude that appears out of nowhere (Miriam)
+       - Number of guesses variable (10?)
+       
+Extra
+       - If user guesses wrong letter, can't repeat letter
        - Missed letter bank
-       - Number of guesses variable
