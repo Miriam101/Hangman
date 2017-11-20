@@ -30,3 +30,7 @@ Needs to be done:
 Extra
        - If user guesses wrong letter, can't repeat letter
        - Missed letter bank
+       
+Right now
+       - Need to make it so that the guesses itr set and gets lower but does not restart- loops and arrays for this
+       - the guesses should be looped and the letters too, so that the word can actully be completed and not restarted the whole time :          so if you guess a that letter would stay there, and then you guess b that would show with the a. not just the b showing.                (loops.)
