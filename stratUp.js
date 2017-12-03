@@ -1,4 +1,4 @@
-vvar userInput = prompt("What letter would you like to guess?", "Letter");
+var userInput = prompt("What letter would you like to guess?", "Letter");
 let word = "allow";
 let hiddenWord = [".",".",".",".","."];
 let numGuesses = 10;
